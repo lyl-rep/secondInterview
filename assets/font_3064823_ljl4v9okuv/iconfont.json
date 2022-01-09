@@ -1,0 +1,30 @@
+{
+  "id": "3064823",
+  "name": "fourthApp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577357",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "5030",
+      "name": "购物车满",
+      "font_class": "gouwucheman",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "15726965",
+      "name": "笑脸",
+      "font_class": "xiaolian",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    }
+  ]
+}
