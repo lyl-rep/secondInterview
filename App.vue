@@ -9,7 +9,7 @@
 import Index from "@/views/index.vue";
 export default {
   components: {
-    Index,//改改
+    Index,//改改//再改
   },
 };
 </script>
